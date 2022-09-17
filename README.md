@@ -1,10 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=nakane11)
-### Tech
-![EusLisp](https://img.shields.io/badge/-EusLisp-05122A?style=flat)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=nakane11&theme=solarized-light)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakane11&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakane11&theme=solarized&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakane11&theme=solarized)
